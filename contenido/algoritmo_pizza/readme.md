@@ -1,4 +1,4 @@
-# PIZZA_PICANTE
+# PIZZA PICANTE
 Conseguir ingredientes.
 
 Preparar la salsa de tomate.
