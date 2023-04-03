@@ -1,4 +1,4 @@
-# PROYECGTOS REALIZADOS
+# PROYECTOS REALIZADOS
 1.) [Algoritmo Pizza](https://github.com/mikerazor5786/core-code-from-scratch-readme/blob/73dbaca1a61cb12fbe6aa2e72de387722f4229fd/contenido/algoritmo_pizza/readme.md)
 
 2.) [Algoritmo Temperatura](https://github.com/mikerazor5786/core-code-from-scratch-readme/blob/a660d179fd662b9365e9691b6b1150e009fcec0e/contenido/conversion_Temperatura/readme.md)
