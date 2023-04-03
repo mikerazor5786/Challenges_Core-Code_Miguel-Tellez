@@ -21,4 +21,4 @@ Aplicación de la formula Volumen de un cubo = a × a × a = a³
 
 Obtencion del radio de la esfera
 
-Aplicación de la formula volumen de una esfera cuyo radio r es 4/3 πr³
+Aplicación de la formula volumen de una esfera = 4/3 πr³
