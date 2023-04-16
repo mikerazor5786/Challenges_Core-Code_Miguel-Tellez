@@ -24,3 +24,4 @@ FinAlgoritmo
 
 ## DIAGRAMA DE FLUJO
 
+![DIAGRAMA DE FLUJO CEREAL CON LECHE](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/162291530bd96e23542591e56b866e30f423dd7d/contenido/semana_2/imagenes2/df_cereal.png)
