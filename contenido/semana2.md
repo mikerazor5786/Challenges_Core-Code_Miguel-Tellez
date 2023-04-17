@@ -11,3 +11,5 @@
 5. [Pseudo codigo par_impar](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/d40734f38b2a1afdac965f0beb592a9ada1259c3/contenido/semana_2/Ps%20par_impar/readme.md)
 
 6. [Pseudocodigo formulario](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/401d86e4ee023785114ad03d7a8ff592b72173f2/contenido/semana_2/formulario/readme.md)
+
+7. [Tablas de Verdad](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/312c3addf8960d39ca53a61ca0be374e8dc00b4c/contenido/semana_2/tablas%20de%20verdad/readme.md)
