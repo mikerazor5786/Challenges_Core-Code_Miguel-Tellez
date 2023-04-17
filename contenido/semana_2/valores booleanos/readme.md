@@ -1,6 +1,7 @@
 # VALORES BOOLEANOS
 
 Algoritmo boolean
+
 	a <- 5 == 3;
     // el resultado es falo -> porque 5 no es igual a 3
 
@@ -18,5 +19,5 @@ Algoritmo boolean
 
 	f <- 40 >= 40;
     // el resultado es verdadero -> porque 40 es iagual a 40
-    
+
 FinAlgoritmo
