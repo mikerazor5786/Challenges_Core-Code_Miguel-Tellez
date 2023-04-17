@@ -11,4 +11,4 @@
 
 5.) [ALGORITMO GEOMETRIA](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/58f83e754826853b656a2e7a3b6db7750d1cea14/contenido/semana_1/geometria/readme.md)
 
-6.) [DIAGRAMA DE FLUJO PAR_IMPAR](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/58f83e754826853b656a2e7a3b6db7750d1cea14/contenido/semana_1/par_impar/readme.md)
+6.) [DIAGRAMA DE FLUJO PAR_IMPAR](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/280e3210915c3a717c8def26a6c7f73723783c19/contenido/semana_2/Ps%20par_impar/readme.md)
