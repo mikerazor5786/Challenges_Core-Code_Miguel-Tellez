@@ -15,3 +15,5 @@
 7. [Tablas de Verdad](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/312c3addf8960d39ca53a61ca0be374e8dc00b4c/contenido/semana_2/tablas%20de%20verdad/readme.md)
 
 8. [Valores Booleanos](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/0538a2265b28eeb3bc122c3b78991d1810fc292f/contenido/semana_2/valores%20booleanos/readme.md)
+
+9. [Par e Impar Mejorado](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/a70bb08d139f4e12dac5f53278cb4755bb6e7146/contenido/semana_2/par_impar%20mejorado/readme.md)
