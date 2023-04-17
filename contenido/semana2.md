@@ -6,4 +6,4 @@
 
 3. [Pseudocodigo Nombre y Edad](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/f2742be5b97e793de51e2228c22d0c1232e4a17c/contenido/semana_2/edad%20y%20nombre/readme.md)
 
-4. [Algoritmo Juego](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/eb1e632aa041ccdb669e93076c9301aea95ff78f/contenido/semana_2/juego%20algoritmo/readme.md)
+4. [Algoritmo Juego](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/f6c5e3aeded43d88bd62ddee5ba2b8f31985a6a6/contenido/semana_2/juego%20algoritmo/readme.md)
