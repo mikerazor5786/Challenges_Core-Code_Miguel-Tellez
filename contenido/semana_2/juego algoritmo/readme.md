@@ -1,0 +1,3 @@
+# JUEGO ALGORITMO
+
+    ## PASO #1
