@@ -13,3 +13,5 @@
 6. [Pseudocodigo formulario](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/401d86e4ee023785114ad03d7a8ff592b72173f2/contenido/semana_2/formulario/readme.md)
 
 7. [Tablas de Verdad](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/312c3addf8960d39ca53a61ca0be374e8dc00b4c/contenido/semana_2/tablas%20de%20verdad/readme.md)
+
+8. [Valores Booleanos](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/0538a2265b28eeb3bc122c3b78991d1810fc292f/contenido/semana_2/valores%20booleanos/readme.md)
