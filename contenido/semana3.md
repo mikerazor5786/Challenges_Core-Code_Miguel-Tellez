@@ -16,4 +16,4 @@
 
 8. [Numeros ascendentes y descendentes](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/7318eb247d0d67efc2afc3c59b93657e41a04841/contenido/semana_3/8%20numeros%20ascendentes%20y%20descendentes/readme.md)
 
-9. [Saludos]()
+9. [Saludos](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/69d1c8b017e87a774d0e9a08a9cac1363444cc37/contenido/semana_3/9%20saludos/readme.md)
