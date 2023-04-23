@@ -1,17 +1,27 @@
 Algoritmo calculadora
 
 Definir num_1, num_2 Como Real;
+
 Definir op Como Caracter;
+
 Escribir "Ingrese el primer numero a procesar ";
+
 Leer  num_1;
+
 Escribir "Ingrese el segundo numero a procesar ";
+
 Leer  num_2;
 
 Escribir  "****************SELECCIONE UNA OPERACION*************************";
+
 Escribir  " + --------------> SUMA";
+
 Escribir  " - --------------> RESTA";
+
 Escribir  " * --------------> MULTIPLICACION";
+
 Escribir  " / --------------> DIVISION";
+
 Leer op;	
 
 Segun op Hacer
