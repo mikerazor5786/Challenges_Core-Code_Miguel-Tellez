@@ -4,4 +4,4 @@
 
 ## [SEMANA #2](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/44cf2db52a277a1f83f92ddec64e15e0c394aec2/contenido/semana2.md)
 
-## [SEMANA #3](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/69d1c8b017e87a774d0e9a08a9cac1363444cc37/contenido/semana3.md)
+## [SEMANA #3](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/683a2686e1d446e68a21a923cde077c399be2edd/contenido/semana3.md)
