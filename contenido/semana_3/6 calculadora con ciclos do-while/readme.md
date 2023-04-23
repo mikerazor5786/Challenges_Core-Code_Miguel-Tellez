@@ -1,4 +1,4 @@
-Algoritmo calculadora
+# Algoritmo calculadora_ciclo-do-while
 	
 	Definir num_1, num_2 Como Real;
 	
