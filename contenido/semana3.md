@@ -13,3 +13,5 @@
 6. [Calculadora con ciclo do-while](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/558f163d7422197b7cf8e26a399fdb3b2c67bae5/contenido/semana_3/6%20calculadora%20con%20ciclos%20do-while/readme.md)
 
 7. [Tabla de multiplicar ciclo for (para)](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/b06149db22b4084fae338a04d5b3e48756c573ba/contenido/semana_3/7%20tabla%20de%20multiplicar%20for/readme.md)
+
+8. [Numeros ascendentes y descendentes]()
