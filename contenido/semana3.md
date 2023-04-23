@@ -14,4 +14,4 @@
 
 7. [Tabla de multiplicar ciclo for (para)](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/b06149db22b4084fae338a04d5b3e48756c573ba/contenido/semana_3/7%20tabla%20de%20multiplicar%20for/readme.md)
 
-8. [Numeros ascendentes y descendentes]()
+8. [Numeros ascendentes y descendentes](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/7318eb247d0d67efc2afc3c59b93657e41a04841/contenido/semana_3/8%20numeros%20ascendentes%20y%20descendentes/readme.md)
