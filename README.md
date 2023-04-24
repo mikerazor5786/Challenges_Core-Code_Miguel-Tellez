@@ -6,4 +6,4 @@ Si entran a calificar espero me tengan pasiencia solo estoy reorganizando todo g
 
 ## [SEMANA #2](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/22e2c2deefe1efad5d6c3d7226c8a1067b7d1aff/contenido/semana2.md)
 
-## [SEMANA #3](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/683a2686e1d446e68a21a923cde077c399be2edd/contenido/semana3.md)
+## [SEMANA #3](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/aa950fe309a8560c509a52b9b0eff78719c1711e/contenido/semana3.md)
