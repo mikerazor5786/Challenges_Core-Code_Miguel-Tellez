@@ -1,3 +1,10 @@
+# DESCRIPCIÓN DEL PROBLEMA
+
+Para este desafío, creará un programa para calcular las tablas de multiplicar de un número dado usando el ciclo For(Para) . El usuario debe ingresar un número y luego se debe imprimir la tabla de multiplicar para el número.
+
+
+# SOLUCIÓN DEL PROBLEMA
+
 Algoritmo tabla_multiplicar_para
 	
 	Definir  num Como Entero;

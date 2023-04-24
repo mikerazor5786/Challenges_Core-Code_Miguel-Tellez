@@ -1,3 +1,9 @@
+# DESCRIPCIÓN DEL PROBLEMA 
+
+Para este reto crearás un programa para calcular las tablas de multiplicar de un número dado usando Mientras (Mientras) . El usuario debe ingresar un número y luego se debe imprimir la tabla de multiplicar para el número.
+
+# SOLUCIÓN DEL PROBLEMA 
+
 Algoritmo tabla_multiplicar_mientras
 	
 	Definir  num Como Entero;

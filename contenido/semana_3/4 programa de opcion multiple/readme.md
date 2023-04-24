@@ -1,3 +1,20 @@
+# DESCRIPCIÓN DEL PROBLEMA 
+
+Para este reto crearás un programa con múltiples opciones usando Switch (Segun) , las opciones disponibles son las siguientes:
+
+Suma dos números
+Imprimir el día de la semana dado el número de día
+Imprimir la longitud de un texto dado
+Este programa debe contar con un menú de inicio donde el usuario debe seleccionar una de las opciones descritas anteriormente. Cuando el usuario seleccione cada una de las opciones, el programa realizará lo siguiente:
+
+Suma. El usuario ingresa dos números y se imprime el resultado de la suma de ambos
+Imprime el día de la semana. El usuario ingresa un día de la semana mediante números y se debe imprimir el nombre del día. Por ejemplo, si se ingresa el número 1, el programa imprime el texto Lunes.
+Calcular la longitud del texto. El usuario ingresa un texto y se debe imprimir la longitud del texto. Pude usar la Longitudfunción Pseint para obtener la longitud.
+Cuando el usuario ingresa una opción incorrecta, se debe imprimir un mensaje diciendo que la opción no está disponible.
+
+
+# SOLUCIÓN DEL PROBLEMA
+
 Algoritmo opciones_multiples
 	Definir  op, num_dia Como Entero;
 	Definir  num_1,num_2,resul_sum Como Real;
