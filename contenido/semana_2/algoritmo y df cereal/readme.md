@@ -1,6 +1,13 @@
-# PREPARACIÓN DE CEREAL CON LECHE
+# DESCRIPCIÓN DEL PROBLEMA
 
-## PSEUDOCODIGO
+Crea un algoritmo para preparar un tazón de cereal con leche. Representar el resultado en pseudocódigo y en un diagrama de flujo.
+
+
+# SOLUCIÓN DEL PROBLEMA
+
+## PREPARACIÓN DE CEREAL CON LECHE
+
+### PSEUDOCODIGO
     Algoritmo cereal
 	Definir cerea1,leche Como Logico
 	Definir verificador Como Entero
@@ -22,6 +29,6 @@
 	FinMientras
 FinAlgoritmo
 
-## DIAGRAMA DE FLUJO
+### DIAGRAMA DE FLUJO
 
 ![DIAGRAMA DE FLUJO CEREAL CON LECHE](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/162291530bd96e23542591e56b866e30f423dd7d/contenido/semana_2/imagenes2/df_cereal.png)

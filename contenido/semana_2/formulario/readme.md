@@ -1,4 +1,22 @@
-# FORMULARIO DE REGISTRO PSEUDOCODIGO
+# DESCRIPCIÓN DEL PROBLEMA
+
+Se le asigna la tarea de crear un formulario de registro para nuevos usuarios, este formulario debe solicitar al usuario la siguiente información:
+
+1. Nombre de pila
+
+	a. Apellido
+
+	b. Edad
+
+	c. Correo electrónico
+
+	d. DIRECCIÓN
+	
+Al finalizar el programa, debe imprimir toda la información añadida del usuario de forma amigable
+
+# SOLUCIÓN DEL PROBLEMA
+
+## FORMULARIO DE REGISTRO PSEUDOCODIGO
 
 Algoritmo formulario_registro
 	

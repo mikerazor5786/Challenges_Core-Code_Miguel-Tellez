@@ -1,4 +1,14 @@
-# PSEUDOCODIGO PAR E IMPAR
+# DESCRIPCIÓN DEL PROBLEMA
+
+El desafío para usted ahora es crear un programa PSeInt que recibirá 
+
+un número del usuario y agregará el operador mod usando el caso par/impar
+
+ ( X % 2 ) donde X es la entrada del usuario 
+
+# SOLUCIÓN DEL PROBLEMA
+
+## PSEUDOCODIGO PAR E IMPAR
 
 Algoritmo par_impar
 	
