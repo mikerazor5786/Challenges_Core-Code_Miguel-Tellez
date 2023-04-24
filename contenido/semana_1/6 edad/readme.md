@@ -1,4 +1,10 @@
-# PSEUDOCODIGO EDAD ACTUAL
+# DESCRIPCIÓN DEL PROBLEMA
+Escriba un pseudocódigo para un algoritmo que calcule la edad de una persona según su fecha de nacimiento
+
+
+# SOLUCIÓN DEL PROBLEMA
+
+## PSEUDOCODIGO EDAD ACTUAL
 Algoritmo Averigua_edad
 
 	Definir edad Como Entero;
