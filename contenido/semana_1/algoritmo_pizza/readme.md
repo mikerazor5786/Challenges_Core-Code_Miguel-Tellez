@@ -1,18 +1,22 @@
-# PIZZA PICANTE
-Conseguir ingredientes.
+# DESCRIPCIÓN DEL PROBLEMA
+Diseña un algoritmo para preparar una pizza desde cero. Define los ingredientes, cuál será el sabor y la preparación.
 
-Preparar la salsa de tomate.
+# SOLUCIÓN DEL PROBLEMA
+## PIZZA PICANTE
+1. Conseguir ingredientes.
 
-Preparar la masa para la pizza.
+2. Preparar la salsa de tomate.
 
-Formación de base de la pizza.
+3. Preparar la masa para la pizza.
 
-Precocer la masa.
+4. Formación de base de la pizza.
 
-Agregar ingredientes.
+5. Precocer la masa.
 
-Hornear nuevamente con ingredientes agregados.
+6. Agregar ingredientes.
 
-Una vez horneada, cortar la pizza en rebanadas.
+7. Hornear nuevamente con ingredientes agregados.
 
-Empaquetar la pizza en una caja de cartón, para mantenerla caliente.
+8. Una vez horneada, cortar la pizza en rebanadas.
+
+9. Empaquetar la pizza en una caja de cartón, para mantenerla caliente.
