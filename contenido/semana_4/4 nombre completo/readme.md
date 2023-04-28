@@ -21,7 +21,5 @@ Algoritmo nombre_completo
 	
 	
 	Escribir (Mayusculas(Subcadena(nombre,1,1)) Sin Saltar + Minusculas(Subcadena(nombre,2,tam_nombre)) Sin Saltar) + " " + (Mayusculas(Subcadena(apellido,1,1)) Sin Saltar + Minusculas(Subcadena(apellido,2,tam_apellido)) Sin Saltar);
-	
-	
-	
+
 FinAlgoritmo
