@@ -6,8 +6,11 @@ Cree una función llamada PrecioTotal que tome 2 parámetros, precio e IVA , y d
 # SOLUCIÓN DEL PROBLEMA
 
 Funcion monto_total <- p_total (m,i)
+
 	Definir monto_total,descuento Como Real;
+
 	monto_total = ((m * ((i/100)+1)));
+	
 FinFuncion
 
 Algoritmo precio_total
