@@ -1,6 +1,6 @@
 # DESCRIPCIÓN DEL PROBLEMA
 
-
+De los datos recibimos primero un nombre y un valor, luego otro nombre y otro valor, usando la función incorporada aleatorio() simulamos el lanzamiento de una moneda, debemos devolver el nombre del ganador en mayúsculas y el valor Gano, para evitar hacer trampas, si un jugador pone un valor de cero o negativo, automáticamente gana el oponente, en caso de que ambos hagan trampa, se devuelve "juego cancelado".
 
 
 # SOLUCIÓN DEL PROBLEMA
