@@ -10,6 +10,7 @@ Cree una función llamada compareDistances que pida 5 números, estos pueden ser
 # SOLUCIÓN DEL PROBLEMA 
 
 SubProceso comparacion_distancia (distan)
+
 	Definir acum_neg, acum_pos Como Real;
 	acum_neg =0;
 	acum_pos =0;
@@ -29,7 +30,7 @@ SubProceso comparacion_distancia (distan)
 FinSubProceso
 
 Algoritmo distancia_comparada
-
+ñ
 	definir distancias Como Entero;
 	Dimension distancias[5];
 	
