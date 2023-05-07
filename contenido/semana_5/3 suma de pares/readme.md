@@ -10,6 +10,7 @@ escriba una función llamada sumOfPairs que pida un número del 1 al 100 indefin
 # SOLUCIÓN DEL PROBLEMA
 
 SubProceso tot_pares()
+
 	Definir datos Como Real;
 	sumatoria_pares = 0;
 	contador = 1;
