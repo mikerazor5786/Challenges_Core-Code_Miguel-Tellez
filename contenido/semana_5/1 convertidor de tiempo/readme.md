@@ -31,6 +31,7 @@ FinSubProceso
 
 
 Algoritmo conversor_tiempo
+
 	Definir seg Como Entero;
 	Escribir "Ingrese la cantidad de segundos a convertir: ";
 	Leer seg;
