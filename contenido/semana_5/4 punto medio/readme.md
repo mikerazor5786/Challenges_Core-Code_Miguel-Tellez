@@ -1,6 +1,10 @@
 # DESCRIPCIÓN DEL PROBLEMA 
 
+escribe una funcion llamada punto medio que dados 2 valores (puede ser negativo) no devuelva el valor del punto medio entre ellos
 
+-50,50 --> 0
+
+40, 80 --> 60
 
 
 
