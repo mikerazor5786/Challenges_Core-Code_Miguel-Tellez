@@ -7,7 +7,9 @@ escriba un algoritmo que se repita indefinidamente hasta que se ingrese 'x' que 
 # SOLUCIÓN DEL PROBLEMA 
 
 Funcion retorno_celcius <- convercion(grad)
+
 		retorno_celcius = ((grad - 32) * (5/9));
+        
 FinFuncion
 
 
