@@ -13,3 +13,5 @@
 ## [SEMANA #5](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/66e6da111ed737f6465d4a2de43f7f87eb898c7b/contenido/semana5.md)
 
 ## [SEMANA #6](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/4eb8b213766b3695e78b808492d8185f0a4d50e2/contenido/semana6.md)
+
+## [SEMANA #7](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/336b1d809c7e9f80e2115b01190e827298f8cca1/contenido/semana7.md)
