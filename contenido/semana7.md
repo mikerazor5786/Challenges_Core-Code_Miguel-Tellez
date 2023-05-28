@@ -1,4 +1,4 @@
-# CHALLENGES DE LA SEMANA #6
+# CHALLENGES DE LA SEMANA #7
 
 1. [String substr()](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/1%20String%20substr()/1%20challenge.png)
 2. [String replace()](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/2%20String%20replace()/2%20challenge.png)
