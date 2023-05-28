@@ -1,0 +1,17 @@
+# CHALLENGES DE LA SEMANA #6
+
+1. [String substr()](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/1%20String%20substr()/1%20challenge.png)
+2. [String replace()](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/2%20String%20replace()/2%20challenge.png)
+3. [Increment](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/3%20Increment/3%20challenge.png)
+4. [Fahrenheit](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/4%20Fahrenheit/4%20challenge.png)
+5. [Boolean](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/5%20Boolean/5%20challenge.png)
+6. [Objects](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/6%20Objects/6%20challenge.png)
+7. [Return to sanity](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/7%20Return%20to%20sanity/7%20challenge.png)
+8. [Object syntax debug](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/8%20Object%20syntax%20debug/8%20challenge.png)
+9. [Count strings in objects](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/9%20Count%20strings%20in%20objects/9%20challenge.png)
+10. [ Get First & Last Array Element](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/10%20Get%20First%20%26%20Last%20Array%20Element/10%20challenge.png)
+11. [Object Oriented Piracy](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/11%20Object%20Oriented%20Piracy/11%20challenge.png)
+12. [Convert a String to a Number](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/12%20Convert%20a%20String%20to%20a%20Number/12%20challenge.png)
+13. [Convert number to reversed array of digits](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/13%20Convert%20number%20to%20reversed%20array%20of%20digits/13%20challenge.png)
+14. [Truthy and Falsy](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/14%20Truthy%20and%20Falsy/challenge%2014.png)
+15. [Training JS #4 Basic data types Array](https://github.com/mikerazor5786/Challenges_Core-Code_Miguel-Tellez/blob/05519a595fd28dd70b4614905c84d63aa3217e0f/contenido/semana_7/15%20Training%20JS%20%234%20Basic%20data%20types%20Array/15%20challenge.png)
